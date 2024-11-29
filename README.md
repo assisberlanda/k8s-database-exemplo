@@ -132,5 +132,3 @@
 ### ☁️ nos Cloud Providers as persistencias de dados se dão pelo [NFS](https://debian-handbook.info/browse/pt-BR/stable/sect.nfs-file-server.html) 
 
 - No GCP - Filestore
-  		
-✅🆑💡❇️📌🧩☁️🌎
